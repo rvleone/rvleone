@@ -18,7 +18,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um profissional em transição de carreira estratégica. Após **6 anos atuando como CEO** e mais de uma década em gestão, mergulhei no mundo da tecnologia para unir a visão de negócios com a capacidade de execução técnica.
+Sou um profissional em transição de carreira estratégica. Após **7 anos atuando como CEO** e mais de uma década em gestão, mergulhei no mundo da tecnologia para unir a visão de negócios com a capacidade de execução técnica.
 
 Atualmente, foco em criar **Agentes de IA Autônomos** que resolvem problemas reais de empresas (como recuperação de crédito) e em **Análise de Dados** para otimização de ROI.
 
